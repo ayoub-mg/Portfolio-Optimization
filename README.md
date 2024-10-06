@@ -26,4 +26,4 @@ This project implements a variety of portfolio optimization strategies, utilizin
 
 ## Interactive Access
 
-For an interactive experience with the Jupyter notebooks, visit the following link to [nbviewer](https://nbviewer.org/github/ayoub-mg/Portfolio-Optimization/blob/main/Portfolio%20Optimization.ipynb).
+For an interactive experience with the Jupyter notebooks, visit the following link to the [Web-based editor](https://github.dev/ayoub-mg/Portfolio-Optimization/blob/main/Portfolio%20Optimization.ipynb).
