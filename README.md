@@ -1,6 +1,6 @@
 # Portfolio Optimization Techniques : A Comparative Study
 
-This project explores advanced portfolio optimization strategies using machine learning techniques to enhance risk-adjusted returns. By leveraging data-driven approaches, the project aims to identify optimal asset allocations that maximize returns while minimizing risk. The approach taken in this project combines traditional finance methods with modern machine learning techniques. By evaluating the performance of various strategies, the project provides insights into how data-driven methods can enhance portfolio construction. Each technique is compared against the MASI Index, enabling a comprehensive analysis of their effectiveness in achieving superior risk-adjusted returns.
+This personal project explores advanced portfolio optimization strategies techniques to enhance risk-adjusted returns. By evaluating the performance of various strategies, ranging from traditional finance methods to modern machine learning techniques, the project provides insights into how data-driven methods can enhance portfolio construction. Each technique is compared against the MASI Index, enabling a comprehensive analysis of their effectiveness in achieving superior risk-adjusted returns.
 
 Through these innovative techniques, the project seeks to provide a comprehensive analysis of various portfolio strategies, demonstrating the effectiveness of combining traditional finance principles with modern machine learning methodologies.
 
